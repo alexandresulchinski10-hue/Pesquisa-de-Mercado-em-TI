@@ -20,8 +20,8 @@ Analisar:
 
 ## Conteúdo
 
-- `Relatorio_Final_Pesquisa_Mercado_TI_SP_JUNIOR_Mesclado.pdf`: Relatório completo da pesquisa, incluindo gráficos de competências, análise salarial mesclada entre LinkedIn e Glassdoor, tendências e plano de ação para os próximos 6 meses.
-
+- [Relatorio_Pesquisa_Mercado_TI_Junior_SP.pdf.pdf](https://github.com/user-attachments/files/21952550/Relatorio_Pesquisa_Mercado_TI_Junior_SP.pdf.pdf)
+  
 ## Principais Insights
 
 - **Hard Skills mais pedidas:** JavaScript, React, Node.js, Python (IA/Dados), SQL, Cloud (AWS/Azure/GCP), Segurança da Informação (SIEM, Firewalls).  
